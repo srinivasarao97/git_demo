@@ -4,5 +4,6 @@ class Mainn
     {
         System.out.println("Hiii");
         System.out.println("hello");
+        System.out.println("erripuk");
     }
 }
